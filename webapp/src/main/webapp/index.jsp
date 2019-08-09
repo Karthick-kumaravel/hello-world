@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, This is a page from GIT via CICD!!! </h1>
 
