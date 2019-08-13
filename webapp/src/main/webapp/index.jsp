@@ -6,3 +6,5 @@
 <h2>Direct Deploy</h2>
 
 <h2>Job schuduled in Jenkins</h2>
+
+<h2>Result is Success</h2>
