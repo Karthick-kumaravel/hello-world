@@ -3,4 +3,4 @@
 
 <h2> Page under constraction </h2>
 
-<h2>CICD via Ansible</h2>
+<h1>Direct Deploy</h1>
