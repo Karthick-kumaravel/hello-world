@@ -3,8 +3,4 @@
 
 <h2> Page under constraction </h2>
 
-<h2>Direct Deploy</h2>
-
-<h2>Job schuduled in Jenkins</h2>
-
-<h2>Result is Success</h2>
+<h2>Content deployed in Docker Container</h2>
