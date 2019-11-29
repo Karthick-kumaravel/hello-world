@@ -3,14 +3,4 @@
 
 <h2> Page under constraction </h2>
 
-<h2>Content deployed in Docker Container</h2>
-
-<h2>The content is via Ansible</h2>
-
-<h2>Version 22</h2>
-
-<h2>Version 23</h2>
-
-<h2>Version 24</h2>
-
-<h2>Version 25</h2>
+<h2>Karthick K</h2>
